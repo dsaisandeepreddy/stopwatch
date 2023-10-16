@@ -1,0 +1,85 @@
+.main-Container {
+  background-image: linear-gradient(to bottom, #9ba9eb, #c3caea);
+  height: 150vh;
+}
+
+.logo-image {
+  width: 350px;
+}
+
+.website-Data {
+  height: 40px;
+  width: 250px;
+  padding: 10px;
+  border-style: hidden;
+}
+
+.image-icon {
+  width: 50px;
+  margin-right: 5px;
+}
+
+.website-container {
+  display: flex;
+  background-color: #ffffff;
+  width: 450px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+.addNewPassword-heaidng {
+  font-size: 25px;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.add-button-part {
+  color: #ffffff;
+  background-color: #7683cb;
+  padding: 5px;
+  width: 70px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.input-fields {
+  background-color: #454f84;
+  margin-left: 10px;
+  padding: 15px;
+  width: 500px;
+}
+
+.passwordManger {
+  width: 450px;
+  margin-left: 35px;
+}
+
+.flex-container-one {
+  display: flex;
+  background-color: #5763a5;
+  width: 1050px;
+  margin: 20px;
+  border-radius: 5px;
+  padding: 25px;
+  margin-bottom: 15px;
+}
+
+.your-password-bottom {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.password-search {
+  display: flex;
+  justify-content: space-between;
+}
+.checkBoxshow {
+  display: flex;
+  justify-content: flex-end;
+}
